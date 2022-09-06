@@ -1,3 +1,5 @@
 lolcat
 cowsay
 zip
+man-db
+manpages-posix
