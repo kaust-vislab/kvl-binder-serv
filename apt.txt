@@ -7,5 +7,7 @@ wget
 curl
 build-essential
 zip
-man-db
-manpages-posix
+man-db 
+manpages-posix 
+manpages-dev 
+manpages-posix-dev
