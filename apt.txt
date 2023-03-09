@@ -1,5 +1,11 @@
 lolcat
 cowsay
+coreutils
+vim 
+git 
+wget
+curl
+build-essential
 zip
 man-db
 manpages-posix
