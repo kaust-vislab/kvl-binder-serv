@@ -2,7 +2,7 @@
   This is a simple repo that can be used to binderize ( meaning creating a public resource that can be used for educational trainings )  
 ## Related
 
-[Binder project] (https://mybinder.readthedocs.io/en/latest/)
+[Binder project](https://mybinder.readthedocs.io/en/latest/)
 <!-- [KAUST]https://jbinder.kaust.edu.sa/user/kaust-vislab-kvl-binder-serv-48uqvcgj/lab -->
 
 ## Authors
